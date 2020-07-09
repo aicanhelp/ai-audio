@@ -1,0 +1,3 @@
+[submodule "resources/kaldi-gstreamer-server"]
+	path = resources/kaldi-gstreamer-server
+	url = https://github.com/alumae/kaldi-gstreamer-server.git
